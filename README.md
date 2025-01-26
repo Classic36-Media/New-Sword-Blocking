@@ -2,6 +2,11 @@
 
 A simple Minecraft data pack to bring back sword blocking in modern versions of Minecraft.
 
+> [!WARNING]
+> This proof-of-concept pack is based on features introduced in Minecraft Java Snapshot
+> 25w04a. These features could be changed at any time during the snapshot cycle, so
+> please be aware that the pack may break in future snapshots.
+
 ## Downloads
 
 [![](https://img.shields.io/modrinth/dt/PQnL4SAX?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/new-sword-blocking)
@@ -12,8 +17,8 @@ A simple Minecraft data pack to bring back sword blocking in modern versions of 
 * Newly-crafted swords can be used to block attacks by right-clicking with them equipped
 * Blocks 50% of damage from attacks, just like in 1.8!
 
-**Note:**
-The changes in this pack do not apply to swords that were crafted prior to installation.
+> [!NOTE]
+> The changes in this pack do not apply to swords that were crafted prior to installation.
 
 ![image](https://i.imgur.com/EnbirfS.gif)
 
