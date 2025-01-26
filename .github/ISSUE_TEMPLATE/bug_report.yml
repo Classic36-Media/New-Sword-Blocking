@@ -1,0 +1,39 @@
+name: Bug Report
+description: File a bug report
+labels: ["Bug"]
+assignees:
+  - TheClassic36
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear and concise description of what the bug is.
+      placeholder: "Example: Blocking with an Iron Sword does not block 50% of dealt damage."
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: Which version of New Sword Blocking are you using? If it's not listed, please update!
+      options:
+        - v0.1.0
+    validations:
+      required: true
+  - type: textarea
+    id: mcversion
+    attributes:
+      label: Minecraft Version
+      description: Which version of Minecraft are you using?
+      placeholder: If using on a non-vanilla server, please type /version and paste the output here. If using in a vanilla setting, please type the Minecraft version here instead.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+    validations:
+      required: false
