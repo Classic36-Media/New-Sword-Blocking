@@ -9,7 +9,7 @@ A simple Minecraft data pack to bring back sword blocking in modern versions of 
 
 ## Downloads
 
-[![](https://img.shields.io/modrinth/dt/PQnL4SAX?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/new-sword-blocking)
+[![](https://img.shields.io/modrinth/dt/whKGizn8?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/new-sword-blocking)
 [![](https://img.shields.io/github/downloads/Classic36-Media/New-Sword-Blocking/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classic36-Media/New-Sword-Blocking/releases)
 
 ## What the pack does
