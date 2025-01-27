@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/cX5a3MI.png)
+![image](https://i.imgur.com/NJx3aJQ.png)
 
 A simple Minecraft data pack to bring back sword blocking in modern versions of Minecraft.
 
