@@ -23,7 +23,7 @@ A simple Minecraft data pack to bring back sword blocking in modern versions of 
 > * Swords taken out of the Creative inventory
 > * Swords given by commands
 
-![image](https://i.imgur.com/EnbirfS.gif)
+![image](https://i.imgur.com/i0UMYSB.gif)
 
 ## Versions
 
