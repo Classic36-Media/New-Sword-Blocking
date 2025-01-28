@@ -18,10 +18,13 @@ A simple Minecraft data pack to bring back sword blocking in modern versions of 
 * Blocks 50% of damage from attacks, just like in 1.8!
 
 > [!NOTE]
-> The changes made by this pack do not apply to: 
-> * Swords that were crafted prior to installation
-> * Swords taken out of the Creative inventory
-> * Swords given by commands
+> The changes made by this pack do not currently apply to: 
+> - Swords that were crafted prior to installation
+> - Swords dropped by mobs
+> - Swords traded from Villagers
+> - Swords found in loot chests
+> - Swords taken out of the Creative inventory
+> - Swords given by commands
 
 ![image](https://i.imgur.com/i0UMYSB.gif)
 
