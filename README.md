@@ -23,6 +23,7 @@ A simple Minecraft data pack to bring back sword blocking in modern versions of 
 > - Swords dropped by mobs
 > - Swords traded from Villagers
 > - Swords found in loot chests
+> - Swords combined by crafting
 > - Swords taken out of the Creative inventory
 > - Swords given by commands
 
