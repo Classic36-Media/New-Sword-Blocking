@@ -20,7 +20,7 @@
             "damage_reductions": [
               {
                 "base": 0.0,
-                "factor": 0.5
+                "factor": 0.25
               }
             ],
             "block_sound": "block.stone.place"

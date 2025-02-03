@@ -11,7 +11,7 @@
           "damage_reductions": [
             {
               "base": 0.0,
-              "factor": 0.5
+              "factor": 0.6
             }
           ],
           "block_sound": "block.iron.place"
