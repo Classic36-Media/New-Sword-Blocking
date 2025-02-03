@@ -12,9 +12,10 @@ A simple Minecraft data pack to bring back sword blocking in modern versions of 
 [![](https://img.shields.io/modrinth/dt/whKGizn8?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/new-sword-blocking)
 [![](https://img.shields.io/github/downloads/Classic36-Media/New-Sword-Blocking/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classic36-Media/New-Sword-Blocking/releases)
 
-## What the pack does
+## Features
 
 * Newly-crafted swords can be used to block attacks by right-clicking with them equipped
+    * Only applies to vanilla swords: Wooden, Stone, Iron, Gold, Diamond and Netherite
 * Swords block 50% of damage from attacks, just like in 1.8!
 
 > [!NOTE]
