@@ -23,6 +23,11 @@
                 "factor": 0.5
               }
             ],
+            "item_damage": {
+              "threshold": 0.0,
+              "base": 1.0,
+              "factor": 0.25
+            },
             "block_sound": "block.iron.place"
         }
       }

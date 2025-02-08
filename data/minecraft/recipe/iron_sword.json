@@ -20,9 +20,14 @@
             "damage_reductions": [
               {
                 "base": 0.0,
-                "factor": 0.3
+                "factor": 0.4
               }
             ],
+            "item_damage": {
+              "threshold": 0.0,
+              "base": 1.0,
+              "factor": 0.35
+            },
             "block_sound": "block.iron.place"
         }
       }

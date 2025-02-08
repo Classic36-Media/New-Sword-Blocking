@@ -23,6 +23,11 @@
                 "factor": 0.2
               }
             ],
+            "item_damage": {
+              "threshold": 0.0,
+              "base": 1.0,
+              "factor": 0.6
+            },
             "block_sound": "item.shield.block"
         }
       }
