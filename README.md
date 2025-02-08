@@ -1,9 +1,9 @@
 ![image](https://i.imgur.com/NJx3aJQ.png)
 
-A simple Minecraft data pack to bring back sword blocking in modern versions of Minecraft.
+A simple Minecraft data pack that restores and enhances sword blocking in modern versions of Minecraft.
 
 > [!WARNING]
-> This pack is based on features introduced in Minecraft Java Snapshot 25w04a. 
+> This pack is based on features introduced in [Minecraft Java Snapshot 25w04a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w04a). 
 > These features could be changed at any time during the snapshot cycle, so please
 > be aware that the pack may break (or be abandoned entirely) in future snapshots.
 
@@ -14,26 +14,30 @@ A simple Minecraft data pack to bring back sword blocking in modern versions of 
 
 ## Features
 
-* Newly-crafted swords can be used to block attacks by right-clicking with them equipped
-    * Only applies to vanilla swords: Wooden, Stone, Iron, Gold, Diamond and Netherite
-* Swords block some damage from attacks
-    * The amount of damage blocked depends on the material of the sword:
-        * Wooden = 20%
-        * Stone = 25%
-        * Iron = 30%
-        * Gold = 40%
-        * Diamond = 50%
-        * Netherite = 60%
+* Newly crafted swords can be used to block attacks by right-clicking while holding the sword in the main hand
+* Swords block a percentage of damage from incoming attacks and lose durability points for each attack blocked, based on the material type of the sword.
+
+| Sword | Damage Blocked | Durability Lost*
+| :--: | :--: | :--: |
+Wooden | 20% | 7
+Golden | 25% | 9
+Stone | 30% | 5
+Iron | 40% | 4
+Diamond | 50% | 3
+Netherite | 60% | 2
+
+* per 10 damage blocked
 
 > [!NOTE]
-> The changes made by this pack do not currently apply to: 
-> - Swords that were crafted prior to installation
+> The changes made by this pack do not apply to: 
+> - Swords crafted before installation
 > - Swords dropped by mobs
-> - Swords traded from Villagers
+> - Swords traded by Villagers
 > - Swords found in loot chests
 > - Swords combined by crafting
-> - Swords taken out of the Creative inventory
-> - Swords given by commands
+> - Swords taken from the Creative inventory
+> - Swords given through commands
+> - Modded or non-vanilla swords
 
 ![image](https://i.imgur.com/i0UMYSB.gif)
 
@@ -41,7 +45,7 @@ A simple Minecraft data pack to bring back sword blocking in modern versions of 
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w04a - 25w06a | [v0.2.0](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v0.2.0) |
+| 25w04a - 25w06a | [v0.3.0](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v0.3.0) |
 
 In the future, versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/Versions).
 
