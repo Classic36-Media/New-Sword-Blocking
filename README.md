@@ -15,7 +15,7 @@ A simple Minecraft data pack that restores and enhances sword blocking in modern
 ## Features
 
 * Newly crafted swords can be used to block attacks by right-clicking while holding the sword in the main hand
-* Swords block a percentage of damage from incoming attacks and lose durability points for each attack blocked, based on the material type of the sword.
+* Swords block a percentage of damage from incoming attacks and lose durability points for each attack blocked, based on the material type of the sword:
 
 | Sword | Damage Blocked | Durability Lost*
 | :--: | :--: | :--: |
