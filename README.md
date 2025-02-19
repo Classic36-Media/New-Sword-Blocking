@@ -45,7 +45,7 @@ Netherite | 60% | 2
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w04a - 25w07a | [v0.3.1](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v0.3.1) |
+| 25w04a - 25w08a | [v0.3.2](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v0.3.2) |
 
 In the future, versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/Versions).
 
