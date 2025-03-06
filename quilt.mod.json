@@ -3,7 +3,7 @@
   "quilt_loader": {
     "group": "org.classic36media",
     "id": "new_sword_blocking",
-    "version": "0.3.0-alpha",
+    "version": "0.3.4-alpha",
     "metadata": {
       "name": "New Sword Blocking",
       "description": "Restores and enhances sword blocking in modern versions of Minecraft!",

@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "new_sword_blocking",
-	"version": "0.3.0-alpha",
+	"version": "0.3.4-alpha",
 	"name": "New Sword Blocking",
 	"description": "Restores and enhances sword blocking in modern versions of Minecraft!",
 	"authors": [
