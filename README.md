@@ -43,7 +43,7 @@ Netherite | 60% | 2
 | 25w10a - 1.21.5-pre1 | [v1.0.0-pre1](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v1.0.0-pre1) |
 | 25w04a - 25w09b | [v0.3.4](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v0.3.4) |
 
-In the future, versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/Versions).
+Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/Versions).
 
 ## Support Requests
 Please open any support requests [here on GitHub](https://github.com/Classic36-Media/New-Sword-Blocking/issues/new/choose) or on Discord:
