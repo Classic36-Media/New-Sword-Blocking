@@ -2,11 +2,6 @@
 
 A simple Minecraft data pack that restores and enhances sword blocking in modern versions of Minecraft.
 
-> [!WARNING]
-> This pack is based on features introduced in [Minecraft Java Snapshot 25w04a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w04a). 
-> These features could be changed at any time during the snapshot cycle, so please
-> be aware that the pack may break (or be abandoned entirely) in future snapshots.
-
 ## Downloads
 
 [![](https://img.shields.io/modrinth/dt/whKGizn8?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/new-sword-blocking)
@@ -45,7 +40,8 @@ Netherite | 60% | 2
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w04a - 25w10a | [v0.3.4](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v0.3.4) |
+| 25w10a - 1.21.5-pre1 | [v1.0.0-pre1](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v1.0.0-pre1) |
+| 25w04a - 25w09b | [v0.3.4](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v0.3.4) |
 
 In the future, versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/Versions).
 
