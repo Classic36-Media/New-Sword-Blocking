@@ -17,8 +17,9 @@ body:
     id: version
     attributes:
       label: Version
-      description: Which version of New Sword Blocking are you using? If it's not listed, please update!
+      description: Which version of New Sword Blocking are you using? If it's not listed, please consider updating!
       options:
+        - v1.1.0-beta1
         - v1.0.0+mod
         - v1.0.0
     validations:
@@ -36,7 +37,7 @@ body:
     attributes:
       label: Mod Loader Version
       description: If running as a mod, which mod loader & Fabric API version are you using?
-      placeholder: "Example: Fabric Loader v0.16.10 with Fabric API v0.119.5 for Minecraft 1.21.5"
+      placeholder: "Example: Fabric Loader v0.16.10 with Fabric API v0.119.9 for Minecraft 1.21.5"
     validations:
       required: false
   - type: textarea
