@@ -2,6 +2,10 @@
 
 A simple Minecraft data pack that restores and enhances sword blocking in modern versions of Minecraft.
 
+>[!CAUTION]
+> v1.1.0 will be the final update for
+> New Sword Blocking. Read more [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/End-of-Life-Announcement).
+
 ## Downloads
 
 [![](https://img.shields.io/modrinth/dt/whKGizn8?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/datapack/new-sword-blocking)
