@@ -37,7 +37,7 @@ body:
     attributes:
       label: Mod Loader Version
       description: If running as a mod, which mod loader & Fabric API version are you using?
-      placeholder: "Example: Fabric Loader v0.16.14 with Fabric API v0.124.0 for Minecraft 1.21.5"
+      placeholder: "Example: Fabric Loader 0.16.14 with Fabric API 0.124.2 for Minecraft 1.21.5"
     validations:
       required: false
   - type: textarea
