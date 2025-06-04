@@ -44,7 +44,7 @@ Netherite | 60% | 2
 
 | Minecraft Version | New Sword Blocking Version |
 | :--: | :--: |
-| 1.21.5 - 1.21.6-pre2 | [v1.1.0-beta3](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v1.1.0-beta3) |
+| 1.21.5 - 1.21.6-pre3 | [v1.1.0-pre1](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v1.1.0-pre1) |
 | 1.21.5 | [v1.0.0](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v1.0.0) |
 
 Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/Versions).
