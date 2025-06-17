@@ -3,8 +3,8 @@
 A simple Minecraft data pack that restores and enhances sword blocking in modern versions of Minecraft.
 
 >[!CAUTION]
-> v1.1.0 will be the final update for
-> New Sword Blocking. Read more [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/End-of-Life-Announcement).
+> New Sword Blocking has reached end-of-life. Support will end on July 17, 2025.
+> Please read more [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/End-of-Life-Announcement).
 
 ## Downloads
 
@@ -44,10 +44,10 @@ Netherite | 60% | 2
 
 | Minecraft Version | New Sword Blocking Version |
 | :--: | :--: |
-| 1.21.5 - 1.21.6-rc1 | [v1.1.0-pre1](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v1.1.0-pre1) |
+| 1.21.5 - 1.21.6 | [v1.1.0](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v1.1.0) |
 | 1.21.5 | [v1.0.0](https://github.com/Classic36-Media/New-Sword-Blocking/releases/tag/v1.0.0) |
 
-Versions for older game updates and snapshots can be found [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/Versions).
+A full list of versions can be found [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/Versions).
 
 ## Support Requests
 Please open any support requests [here on GitHub](https://github.com/Classic36-Media/New-Sword-Blocking/issues/new/choose) or on Discord:
