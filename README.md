@@ -2,7 +2,7 @@
 
 ![image](https://i.imgur.com/NJx3aJQ.png)
 
-A simple Minecraft data pack that restores and enhances sword blocking in modern versions of Minecraft.
+A simple Minecraft data pack that restores and enhances sword blocking in Minecraft 1.21.5-1.21.7.
 
 </center>
 
