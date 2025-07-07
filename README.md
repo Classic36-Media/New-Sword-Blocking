@@ -1,10 +1,6 @@
-<center>
-
 ![image](https://i.imgur.com/NJx3aJQ.png)
 
 A simple Minecraft data pack that restores and enhances sword blocking in Minecraft 1.21.5-1.21.7.
-
-</center>
 
 >[!CAUTION]
 > New Sword Blocking has reached end-of-life. Support will end on July 17, 2025.
@@ -20,8 +16,6 @@ A simple Minecraft data pack that restores and enhances sword blocking in Minecr
 * Newly crafted swords can be used to block attacks by right-clicking while holding the sword in the main hand
 * Swords block a percentage of damage from incoming attacks and lose durability points for each attack blocked, based on the material type of the sword:
 
-<center>
-
 | Sword | Damage Blocked | Durability Lost*
 | :--: | :--: | :--: |
 Wooden | 20% | 7
@@ -32,8 +26,6 @@ Diamond | 50% | 3
 Netherite | 60% | 2
 
 \* per 10 damage blocked
-
-</center>
 
 > [!NOTE]
 > The changes made by this pack do not apply to: 
@@ -46,11 +38,7 @@ Netherite | 60% | 2
 > - Swords given through commands
 > - Modded or non-vanilla swords
 
-<center>
-
 ![image](https://i.imgur.com/i0UMYSB.gif)
-
-</center>
 
 ## Versions
 
