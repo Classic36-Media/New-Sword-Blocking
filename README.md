@@ -1,9 +1,8 @@
 <center>
-
 ![image](https://i.imgur.com/NJx3aJQ.png)
-
+</center>
+<center>
 A simple Minecraft data pack that restores and enhances sword blocking in Minecraft 1.21.5-1.21.7.
-
 </center>
 
 >[!CAUTION]
@@ -21,7 +20,6 @@ A simple Minecraft data pack that restores and enhances sword blocking in Minecr
 * Swords block a percentage of damage from incoming attacks and lose durability points for each attack blocked, based on the material type of the sword:
 
 <center>
-
 | Sword | Damage Blocked | Durability Lost*
 | :--: | :--: | :--: |
 Wooden | 20% | 7
@@ -32,7 +30,6 @@ Diamond | 50% | 3
 Netherite | 60% | 2
 
 \* per 10 damage blocked
-
 </center>
 
 > [!NOTE]
@@ -47,9 +44,7 @@ Netherite | 60% | 2
 > - Modded or non-vanilla swords
 
 <center>
-
 ![image](https://i.imgur.com/i0UMYSB.gif)
-
 </center>
 
 ## Versions
