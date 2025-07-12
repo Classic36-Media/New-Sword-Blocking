@@ -57,4 +57,4 @@ Please open any support requests [here on GitHub](https://github.com/Classic36-M
 
 ***
 
-###### Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+**Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.**
