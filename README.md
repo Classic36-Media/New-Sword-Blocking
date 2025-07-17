@@ -3,7 +3,7 @@
 A simple Minecraft data pack that restores and enhances sword blocking in Minecraft 1.21.5-1.21.8.
 
 >[!CAUTION]
-> New Sword Blocking will no longer supported 7 days after the v1.1.2 release. The data pack and mod will be available as-is, but there won't be any updates or assistance.
+> New Sword Blocking will no longer be supported as of July 24, 2025. The data pack and mod will be available as-is, but there won't be any updates or assistance.
 > Please read more [here](https://github.com/Classic36-Media/New-Sword-Blocking/wiki/End-of-Life-Announcement).
 
 ## Downloads
